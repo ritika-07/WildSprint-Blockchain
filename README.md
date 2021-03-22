@@ -15,4 +15,7 @@ Using Ethereum blockchain in this use case would make the donations safer, easie
 
 ![](./flow.png)
 
-#### Made with ❤ &nbsp; by team Ambur Biryani
+### Link to complete project
+- [Frontend](https://github.com/ambur-biryani/wild-sprint-frontend)
+- [Backend](https://github.com/ambur-biryani/wild-sprint-backend) </br>
+Made with ❤ &nbsp; by team Ambur Biryani
