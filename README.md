@@ -13,6 +13,6 @@ Using Ethereum blockchain in this use case would make the donations safer, easie
 
 ### Flow
 
-![](./assets/flow.png)
+![](./flow.png)
 
 #### Made with ❤ &nbsp; by team Ambur Biryani
